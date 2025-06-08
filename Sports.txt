@@ -1,1 +1,110 @@
+#EXTINF:-1 tvg-id="1998" tvg-logo="https://www.dropbox.com/scl/fi/kmxm5gom0gmu9e6j602sn/20250415_195950.png?rlkey=zwqqsc1qo25hjsk57kg3xxl9m&st=zzjuzvde&dl=1"group-title="Hindi",HotStar Ad-Free
+
+http://absiakjaaokwaaayaaaaaaaaaaaaa.live-ssai-cf-mum-ace.cdn.hotstar.com/hls/live/2024729/inallow-ipl-2025/hin/1540040267/15mindvrm0195970b528382400c9deaad95150b03af15april2025/master_apm_720_5.m3u8?|cookie=CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovLypsaXZlLXNzYWktY2YtbXVtLWFjZS5jZG4uaG90c3Rhci5jb20vaGxzL2xpdmUvMjAyNDcyOS9pbmFsbG93LWlwbC0yMDI1L2hpbi8xNTQwMDQwMjY3LzE1bWluZHZybTAxOTU5NzBiNTI4MzgyNDAwYzlkZWFhZDk1MTUwYjAzYWYxNWFwcmlsMjAyNS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzQ0ODEyNDQ2fX19XX0_; CloudFront-Signature=RuXXNpS0NHPTXeBeTz3J7A96EAbZEEd1Fsd~zWSXefmoimprB3GBqeRjid~7Q1EbaIeO89cceUD3KpRufmQPim2bsZWOGvva~Az~sfhsHMQZYyeNQmprTHM7WAyp45TFphYnVU2b4CQjqe9WAtX5gmiZRp9XORwpvpQOZaNcL~F7bwAENDQRTxmW-bYAYgMcWnIlceOjP17DeL5E88m84q8hNxZmiOcz53vw1SyJAKYBB37ovSZpqu-~f0u0hCiR5LZBPY36~HJa3WEM-SBZvAzdCaHxDSLIiaGbtzZ9GJpDwCHEQY82SfxWrMlc2IPLUHTrhTtQqaxaZE4uagB2Ug__; hdntl=exp=1744812446~acl=/hls/live/2024729/inallow-ipl-2025/hin/1540040267/15mindvrm0195970b528382400c9deaad95150b03af15april2025/master_apm~type=free~data=ip=SPMypqVbFUs9aE2ek0ZkXB5UNVP2hcxyfiYwvFv6hVhlFDtObkkh9on-userid=yTqFZPpwDq4EK69BYNbVz9CPApM8fY0ffQ0MMWCkVVtr-did=7y6CEM3iHHH1UErgucSsAUssSPMA7DrSRqaTCEKFf63F-cc=in-de=1-pl=android-ap=25.01.27.1.2915-ut=guest-~hmac=ff8f22f3e0e6c0dc7db3e910d0a599e004786d63449530bb5c3895570428cef2
+
+
+
+
+
+#EXTINF:-1 tvg-id="1998" tvg-logo="https://www.dropbox.com/scl/fi/kmxm5gom0gmu9e6j602sn/20250415_195950.png?rlkey=zwqqsc1qo25hjsk57kg3xxl9m&st=zzjuzvde&dl=1" group-title="Hindi",ð Hotstar Hindi 1ð¥
+
+https://sshindidash-i.akamaihd.net/dash/live/2002466-b/sshindiwv/master.mpd|LicenseURL=https://play.denver1769.fun/Play/Key.php?id=hex&kid=fe7718fbb3fb4ba78c07cc0f578744e6&key=624e24b1843b459fab0a949609416f0d||cookie=hdntl=exp=1744810558~acl=*sshindi*~id=24e38da742ad8c70c4fdb2e802d81918~data=hdntl~hmac=e4ff740398af4edc8c92582cc39224393aad92170a1ba9d6a21e69ca01e40700||http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)
+
+
+
+
+
+#EXTINF:-1 tvg-id="1998" tvg-logo="https://www.dropbox.com/scl/fi/kmxm5gom0gmu9e6j602sn/20250415_195950.png?rlkey=zwqqsc1qo25hjsk57kg3xxl9m&st=zzjuzvde&dl=1"group-title="Hindi",ð Hotstar Hindi 2ð¥
+
+https://aps33.playlist.live-video.net/v1/playlist/CtwFncVYLrmaoaRxvI7h2pTBo0cGpy83D52cNFJQiLu3MCIp6CQAOHjo8N9y7PU9Tzak1MkuTc5-MFxjcseH9C_bOUlr6cJ5E4KT0aRoBfdbXTdmcJqE9YTs3XtbMiBaoqbqtvc6Hesdmq6OtCRV38wDDBJmV69clJODKIAhKCEVeJJLqtZJeIGeaovEi2qcyLdMPkQrEcN-bcoZWMlUwrnM6vTYgndNutUOr-PLNjcWBM52nX2BVkjRrgsJy5CpbKwaTB58HuXY2ZP2ecabVOGUig3vSagt_Z2-J2GxNDSj-SvP1d4Qk52RYgNHnogh-Vwf-UDOmFMkoBTFvObYr3_4hTXF0NZFXrOtgl289GjMSc5rWrh92CZjxBOpmiKq7Ra8PDc7swfDEP6_cr9LAXbSnBK3cgIrQeCUjIcR0ADdRVCzRD5qCfp-j12aDTLpl6DOBIH6y_nDbWaD9nXshaFKwyntizRYNQMlXAmHxoR7g-s2uyhaoc0NLMM1r1soVypnknQ_SiBKjc4fEdc7XMCdEBdtrCg8S1Yqcx0F7_EVfspRd8dJDkyqxoiqKBanT0TB6JSkmvM4-ZAcxt4c3M-whrpfJENQ4SE8Ez9HfBDrMgvDB9f4BBWPCF7BjLqeSUhuN6uzm52y7R7l9ijMiy9bqvSk1zu1Z_Yy_n3CzU0LTEuVv-zF4F1NCjr3BhGNGD2J1bLPs9qJmVWPE3u6uJbVFi6wQsLr6d-i-ExOpZ10Zw5QfL9QlANnL0eBAatoVkh31tZdmAQtokZDmwlbp7ubkc6g-2etEw3wKEolck7shgneplQlTU5YDcGrOan6xYyTYJa2KsTAlS2obA4ntGQ9vE454Ci1fSd1uMNH5hAt00S_iQe7Bf6U_KIxxUq2br1cYEu8MU3-TCVHdCPHhd_MvBDWYT_vu1Cf9vQz7MQLaMSQEUdBlIBoRvMgHsQv7bypkwoNlEnShBRX_ch-GgxBQf55ZDaXQgutcEwgASoJdXMtd2VzdC0yMIIM.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="1998" tvg-logo="https://www.dropbox.com/scl/fi/kmxm5gom0gmu9e6j602sn/20250415_195950.png?rlkey=zwqqsc1qo25hjsk57kg3xxl9m&st=zzjuzvde&dl=1" group-title="English", Hotstar Eng ð¥
+
+https://link.joker-verse.workers.dev/astrocricket.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="1998" tvg-logo="https://www.dropbox.com/scl/fi/jmt9eg9pptokz0pv5q75q/20250415_194924.png?rlkey=ef2n0pe1bgsmpu7mptl6n0nzy&st=b2khqmms&dl=1" group-title="Hindi",Star Sports 1 HD
+
+https://sshd2livetvdash-i.akamaihd.net/dash/live/2002465-b/sshd2livetvwv/master.mpd|LicenseURL=https://play.denver1769.fun/Play/Key.php?id=hex&kid=fe7718fbb3fb4ba78c07cc0f578744e6&key=624e24b1843b459fab0a949609416f0d||cookie=hdntl=exp=1744810893~acl=*sshd1livetv*~id=f56cf153bd42a2ebdffea4e21ddc884b~data=hdntl~hmac=824be5317ac6dc2c94876b08d4b8e85515ca3e7c11c3559013cdb09ea4eda959||http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="1998" tvg-logo="https://www.dropbox.com/scl/fi/jmt9eg9pptokz0pv5q75q/20250415_194924.png?rlkey=ef2n0pe1bgsmpu7mptl6n0nzy&st=b2khqmms&dl=1" group-title="Hindi",Star Sports 1 Hindi
+
+https://sshindidash-i.akamaihd.net/dash/live/2002466-b/sshindiwv/master.mpd|LicenseURL=https://play.denver1769.fun/Play/Key.php?id=hex&kid=fe7718fbb3fb4ba78c07cc0f578744e6&key=624e24b1843b459fab0a949609416f0d||cookie=hdntl=exp=1744810558~acl=*sshindi*~id=24e38da742ad8c70c4fdb2e802d81918~data=hdntl~hmac=e4ff740398af4edc8c92582cc39224393aad92170a1ba9d6a21e69ca01e40700||http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)
+
+
+
+#EXTINF:-1 tvg-id="1998" tvg-logo="https://www.dropbox.com/scl/fi/3tnx2u4svkqckikc8svg4/20250415_194830.png?rlkey=2c0lm2m17l34ywn735rpk8xuh&st=4sbq54f7&dl=1" group-title="Hindi",Star Sports 2 HD 
+
+https://star-sports-2-hindi-hd.joker-verse.workers.dev/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="1998" tvg-logo="https://www.dropbox.com/scl/fi/f3p7w24ox58hhaor95k30/20250415_194705.png?rlkey=ekr1jpmkisf1sbwo1hnfpr6md&st=fqojs442&dl=1" group-title="English", Willow Sports
+
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|LicenseURL=https://play.denver1769.fun/Play/Key.php?id=hex&kid=1779c27b9d077a3ba0c9cc1bb9a94b9f&key=cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+
+
+
+#EXTINF:-1 tvg-id="1998" tvg-logo="https://www.dropbox.com/scl/fi/jk79scr6u7f9tpxnfwlai/20250415_194542.png?rlkey=5nxe8d6pztdqvla7vmalqruxu&st=7z305dl1&dl=1" group-title="English", Astro Cricket 1
+
+https://link.joker-verse.workers.dev/astrocricket.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="1998" tvg-logo="https://www.dropbox.com/scl/fi/d6bmkrlunre0lkpdljy0p/20250415_194436.png?rlkey=zqpqud7fynobm9n2fm97rhmqh&st=lyhif9tx&dl=1" group-title="English", Fox Cricket
+
+http://wanicelife.com:8880/live/D48m4019/43509358/61080.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="ts980" tvg-logo="https://www.dropbox.com/scl/fi/hqgljxtnnhncjmysfrdbt/20250415_194309.png?rlkey=zavevexq3zip9s4iomcsnatq5&st=1vhf0e17&dl=1" group-title="English",T Sports 
+
+https://live-test.tsports.com/live-02/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=17436002443600~hmac=1fdfe8ddcbf56e3eefcb254f9facdca9e6fce112f92dcf335b77a9a930116421
+
+
+
+#EXTINF:-1 tvg-id="1998" tvg-logo="https://i.ibb.co/S428mWCd/34b7f86680d3.jpg" group-title="English", Sky Sports 
 
